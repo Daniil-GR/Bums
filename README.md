@@ -1,8 +1,8 @@
-### Bums V2 #bums
+# Bums V2 #bums
 
 ## ⚙️ Инструкция:
 
-# Установите Node.js: https://nodejs.org/en/
+### Установите Node.js: https://nodejs.org/en/
 
 • После установки проверьте, что Node.js работает, запустив в терминале команду:
 ```
